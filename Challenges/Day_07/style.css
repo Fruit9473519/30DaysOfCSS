@@ -3,7 +3,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #2003c5;
+  background-color: #dbf305;
 }
 
 .button {
@@ -25,7 +25,7 @@ body {
   font-size: 15px;
   color: rgb(136, 194, 30);
   font-weight: bolder;
-  background-color: #5314c7;
+  background-color: #ff4800;
   border-radius: 10px;
 }
 
